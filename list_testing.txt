@@ -62,3 +62,5 @@ mutt
 linux-image-amd64
 live-boot
 systemd-sysv
+firefox-esr
+xfce4-notes-plugin

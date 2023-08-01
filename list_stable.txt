@@ -60,3 +60,5 @@ virt-manager
 conky
 picom
 xfce4
+xfce4-notes-plugin
+firefox-esr
